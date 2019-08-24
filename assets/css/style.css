@@ -123,12 +123,6 @@ button {
 
 /* 980px */
 @media screen and (max-width: 980px) {
-  
-}
-
-
-/* 768px */
-@media screen and (max-width: 768px) {
   #name {
     margin-left: 5%;
   }
@@ -144,12 +138,48 @@ button {
 
   .title {
     width: 100%;
+}
+
+
+/* 768px */
+@media screen and (max-width: 768px) {
+  #name {
+    margin-left: 5%;
+  }
+
+  #links {
+    margin-right: 5%;
+  }
+
+  .bod {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 100%;
+  }
+
+  .title {
+    width: 100%;
   }
 }
 
 
 /* 640px */
 @media screen and (max-width: 640px) {
+  #name {
+    margin-left: 0;
+  }
 
+  #links {
+    margin-right: 0;
+  }
+
+  .bod {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+
+  .title {
+    width: 100%;
   
 }
