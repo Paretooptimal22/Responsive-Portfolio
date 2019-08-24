@@ -167,6 +167,7 @@ button {
 @media screen and (max-width: 640px) {
   #name {
     margin-left: 0;
+    width: 100%;
   }
 
   #links {
@@ -188,4 +189,8 @@ button {
     height: 400px;
   }
   
+  #navbar {
+    display: initial;
+    text-align: center;
+  }
 }
