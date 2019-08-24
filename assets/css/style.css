@@ -27,6 +27,7 @@
   margin-left: 18%;
   background-color: ghostwhite;
   font-family: 'Lato', sans-serif;
+  /* margin: auto; */
 
 }
 
@@ -152,9 +153,10 @@ button {
   }
 
   .bod {
-    margin-left: 5%;
-    margin-right: 5%;
+    /* margin-left: 5%;
+    margin-right: 5%; */
     width: 100%;
+    margin: auto;
   }
 
   .title {
