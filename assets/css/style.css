@@ -123,3 +123,22 @@ button {
   display: inline-block;
   font-size: 16px;
 }
+
+/* 980px */
+@media screen and (max-width: 908px) {
+  
+  }
+}
+
+
+/* 768px */
+@media screen and (max-width: 768px) {
+
+}
+
+
+/* 640px */
+@media screen and (max-width: 640px) {
+  
+  }
+}
