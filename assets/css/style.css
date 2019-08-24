@@ -125,9 +125,9 @@ button {
 }
 
 /* 980px */
-@media screen and (max-width: 908px) {
+@media screen and (max-width: 980px) {
   
-  }
+  
 }
 
 
@@ -140,5 +140,5 @@ button {
 /* 640px */
 @media screen and (max-width: 640px) {
   
-  }
+  
 }
