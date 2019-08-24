@@ -1,0 +1,76 @@
+.header {
+  background-color: #ffffff;
+  height: 56px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+#name {
+  width: 200px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color: #ffffff;
+  background-color: #4aaaaf;
+  position: relative;
+  left: 250px;
+  margin: 0px;
+  
+}
+
+body {
+  background-color: lightgray;
+  margin: 0px;
+}
+
+.section {
+  margin-left: 250px;
+  margin-right: 250px;
+  width: 960px;
+  height: 400px;
+  padding-left: 20px;
+  background-color: #ffffff;
+  margin-top: 35px;
+  
+}
+
+#about {
+  clear: left;
+  color: #4aaaaf;
+  padding-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+#me {
+  float: left;
+  width: 240px;
+  height: 250px;
+}
+
+.contact {
+  margin-left: 250px;
+  margin-right: 250px;
+  width: 960px;
+  height: 600px;
+  padding-left: 20px;
+  background-color: #ffffff;
+}
+
+input[type=text], select {
+  width: 98%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+
