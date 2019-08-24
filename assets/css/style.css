@@ -20,9 +20,6 @@
   margin-left: 18%;
 }
 
-#links {
-
-}
 
 .bod {
   width: 960px;
@@ -127,18 +124,32 @@ button {
 /* 980px */
 @media screen and (max-width: 980px) {
   
-  
 }
 
 
 /* 768px */
 @media screen and (max-width: 768px) {
+  #name {
+    margin-left: 5%;
+  }
 
+  #links {
+    margin-right: 5%;
+  }
+
+  .bod {
+    margin-left: 5%;
+    width: 100%;
+  }
+
+  .title {
+    width: 100%;
+  }
 }
 
 
 /* 640px */
 @media screen and (max-width: 640px) {
-  
+
   
 }
