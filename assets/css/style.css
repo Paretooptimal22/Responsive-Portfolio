@@ -126,6 +126,7 @@ button {
 @media screen and (max-width: 980px) {
   #name {
     margin-left: 5%;
+    padding-top: 15px;
   }
 
   #links {
